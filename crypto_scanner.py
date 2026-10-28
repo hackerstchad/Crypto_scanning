@@ -397,7 +397,7 @@ def print_banner():
     print(Fore.GREEN + title_line + Style.RESET_ALL if HAS_COLORAMA else title_line)
     print(
         (Fore.GREEN if HAS_COLORAMA else "")
-        + "  *****   CRYPTO SCANNER PRO MAX - ÉDITION ULTIMATE   *****"
+        + "  *****   CRYPTO SCANNER    *****"
         + (Style.RESET_ALL if HAS_COLORAMA else "")
     )
     print(
