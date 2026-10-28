@@ -3,19 +3,17 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                      ║
-║     *****  *****  *****  *****  *****  *****  *****  *****  *****  *****  *****     ║
-║     *                                                            *                  ║
-║     *         C Y P T O   S C A N N E R   P R O   M A X          *                  ║
-║     *                                                            *                  ║
-║     *****  *****  *****  *****  *****  *****  *****  *****  *****  *****  *****     ║
+║                                                                                      ║
+║                                                                                      ║
+║                                                                                      ║
 ║                                                                                      ║
 ║     Détecte les algorithmes de chiffrement utilisés par un site web via son URL      ║
 ║     Analyse SSL/TLS, certificats, suites de chiffrement, en-têtes HTTP, DNS,         ║
 ║     vulnérabilités connues (Heartbleed, POODLE, BEAST, SWEET32, CRIME, etc.)         ║
 ║                                                                                      ║
-║     Auteur  : hackers_tchad                                                          ║
-║     Version : 10.0 - ULTIMATE EDITION                                                ║
-║     Licence : Éducative / Pentest autorisé uniquement                                ║
+║                                                                                      ║
+║                                                                                      ║
+║                                                                                      ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 """
@@ -88,7 +86,7 @@ except ImportError:
 APP_NAME = "Crypto Scanner Pro Max"
 APP_VERSION = "10.0 ULTIMATE"
 APP_AUTHOR = "hackers_tchad"
-APP_LICENSE = "Éducative / Pentest autorisé uniquement"
+APP_LICENSE = "Pentest"
 
 DEFAULT_PORT = 443
 DEFAULT_TIMEOUT = 10
