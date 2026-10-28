@@ -1,0 +1,5 @@
+colorama>=0.4.6
+cryptography>=42.0.0
+dnspython>=2.5.0
+pyOpenSSL>=24.0.0
+requests>=2.31.0
