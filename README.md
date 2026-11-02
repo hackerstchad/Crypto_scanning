@@ -1,4 +1,4 @@
-# Crypto Scanner Pro Max
+# Crypto Scanner
 
 **Auteur :** hackers_tchad  
 **Version :** 10.0 ULTIMATE
